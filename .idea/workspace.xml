@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3190be03-4529-4bb3-bb81-66d9694d577b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8_Arrays.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Arrays.rb" beforeDir="false" afterPath="$PROJECT_DIR$/8_Arrays.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
     <SUITE FILE_PATH="coverage/TestProject@Home_work_1.rcov" NAME="Home_work_1 Coverage Results" MODIFIED="1539957859514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_2.rcov" NAME="ruby_tutor_2 Coverage Results" MODIFIED="1539956936438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_1.rcov" NAME="ruby_tutor_1 Coverage Results" MODIFIED="1539955757337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
-    <SUITE FILE_PATH="coverage/RubyLearn@8_Arrays.rcov" NAME="8_Arrays Coverage Results" MODIFIED="1540002973720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
+    <SUITE FILE_PATH="coverage/RubyLearn@8_Arrays.rcov" NAME="8_Arrays Coverage Results" MODIFIED="1540037229684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/RubyLearn@7_BasicLiterals.rcov" NAME="7_BasicLiterals Coverage Results" MODIFIED="1540001918660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/RubyLearn@7InstanceVariable.rcov" NAME="6_InstanceVariable Coverage Results" MODIFIED="1540001173737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_3.rcov" NAME="ruby_tutor_3 Coverage Results" MODIFIED="1539957007871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
@@ -71,14 +71,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="1989" />
+          <entry key="rb" value="2133" />
           <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Ruby" value="1989" />
+          <entry key="Ruby" value="2133" />
         </counts>
       </usages-collector>
     </session>
@@ -97,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/8_Arrays.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="403">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -298,7 +298,7 @@
       <updated>1539950127560</updated>
       <workItem from="1539950129386" duration="6456000" />
       <workItem from="1539996546183" duration="941000" />
-      <workItem from="1539998982826" duration="3982000" />
+      <workItem from="1539998982826" duration="5519000" />
     </task>
     <task id="LOCAL-00001" summary="Instance variables">
       <created>1540000480679</created>
@@ -328,11 +328,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540002385688</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Basic Literals">
+      <created>1540003030102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540003030102</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11379000" />
+    <option name="totallyTimeSpent" value="12916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="942" extended-state="6" />
@@ -407,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8_Arrays.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="403">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
         </state>
       </provider>
     </entry>
