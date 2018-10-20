@@ -17,29 +17,5 @@ end
   puts i
 end
 
-a = 10
-b = 30
 
-#Arifmetical operators
-puts"#{a+b}"
-puts"#{a-b}"
-puts"#{a*b}"
-puts"#{a/b}"
-puts"#{a%b}"
-puts"#{a+b}"
-puts"#{a**b}"
-
-#Comparison operators
-
-puts "#{a == b}"
-puts "#{a != b}"
-puts "#{a > b}"
-puts "#{a < b}"
-puts "#{a >= b}"
-puts "#{a <= b}"
-puts "#{a == b}"
-puts "#{a <=> b}"
-puts "#{a === a}"
-puts "#{a.eql?(b)}"
-puts "#{a.equal?(a)}"
 
