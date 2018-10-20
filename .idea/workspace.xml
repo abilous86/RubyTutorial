@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3190be03-4529-4bb3-bb81-66d9694d577b" name="Default Changelist" comment="" />
+    <list default="true" id="3190be03-4529-4bb3-bb81-66d9694d577b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/7InstanceVariable.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_1.rcov" NAME="ruby_tutor_1 Coverage Results" MODIFIED="1539955757337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@Variables.rcov" NAME="Variables Coverage Results" MODIFIED="1539995967260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@Home_work_1.rcov" NAME="Home_work_1 Coverage Results" MODIFIED="1539957859514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_2.rcov" NAME="ruby_tutor_2 Coverage Results" MODIFIED="1539956936438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
+    <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_1.rcov" NAME="ruby_tutor_1 Coverage Results" MODIFIED="1539955757337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
+    <SUITE FILE_PATH="coverage/RubyLearn@7InstanceVariable.rcov" NAME="7InstanceVariable Coverage Results" MODIFIED="1540000282913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_3.rcov" NAME="ruby_tutor_3 Coverage Results" MODIFIED="1539957007871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -46,14 +50,42 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-96408833">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="rb" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ruby" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="rb" value="603" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ruby" value="603" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Variables.rb">
+        <entry file="file://$PROJECT_DIR$/7InstanceVariable.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="330">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -72,6 +104,7 @@
         <option value="$PROJECT_DIR$/ruby_tutor_3.rb" />
         <option value="$PROJECT_DIR$/Home_work_1.rb" />
         <option value="$PROJECT_DIR$/Variables.rb" />
+        <option value="$PROJECT_DIR$/7InstanceVariable.rb" />
       </list>
     </option>
   </component>
@@ -93,18 +126,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="RubyLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RubyLearn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +158,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.Variables">
+  <component name="RunManager" selected="Ruby.7InstanceVariable">
+    <configuration name="7InstanceVariable" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="TestProject" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/7InstanceVariable.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Home_work_1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="TestProject" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -159,24 +210,6 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Variables.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ruby_tutor_1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="TestProject" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby_tutor_1.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -217,19 +250,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.ruby_tutor_1" />
       <item itemvalue="Ruby.ruby_tutor_2" />
       <item itemvalue="Ruby.ruby_tutor_3" />
       <item itemvalue="Ruby.Home_work_1" />
       <item itemvalue="Ruby.Variables" />
+      <item itemvalue="Ruby.7InstanceVariable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.7InstanceVariable" />
         <item itemvalue="Ruby.Variables" />
         <item itemvalue="Ruby.Home_work_1" />
         <item itemvalue="Ruby.ruby_tutor_3" />
         <item itemvalue="Ruby.ruby_tutor_2" />
-        <item itemvalue="Ruby.ruby_tutor_1" />
       </list>
     </recent_temporary>
   </component>
@@ -246,26 +279,28 @@
       <updated>1539950127560</updated>
       <workItem from="1539950129386" duration="6456000" />
       <workItem from="1539996546183" duration="941000" />
+      <workItem from="1539998982826" duration="1294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7397000" />
+    <option name="totallyTimeSpent" value="8691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1373" height="755" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="942" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24943481" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25235197" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.6025641" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.36251542" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.30670926" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3057953" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -283,29 +318,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_1.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_1.rb" />
     <entry file="file://$PROJECT_DIR$/ruby_tutor_3.rb" />
     <entry file="file://$PROJECT_DIR$/ruby_tutor_2.rb" />
-    <entry file="file://$PROJECT_DIR$/ruby_tutor_1.rb">
+    <entry file="file://$PROJECT_DIR$/ruby_tutor_1.rb" />
+    <entry file="file://$PROJECT_DIR$/Home_work_1.rb" />
+    <entry file="file://$PROJECT_DIR$/Variables.rb" />
+    <entry file="file://$PROJECT_DIR$/7InstanceVariable.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home_work_1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Variables.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
