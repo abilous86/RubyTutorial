@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3190be03-4529-4bb3-bb81-66d9694d577b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/8_Arrays.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_BasicLiterals.rb" beforeDir="false" afterPath="$PROJECT_DIR$/7_BasicLiterals.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/TestProject@Home_work_1.rcov" NAME="Home_work_1 Coverage Results" MODIFIED="1539957859514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_2.rcov" NAME="ruby_tutor_2 Coverage Results" MODIFIED="1539956936438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_1.rcov" NAME="ruby_tutor_1 Coverage Results" MODIFIED="1539955757337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
+    <SUITE FILE_PATH="coverage/RubyLearn@8_Arrays.rcov" NAME="8_Arrays Coverage Results" MODIFIED="1540002973720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/RubyLearn@7_BasicLiterals.rcov" NAME="7_BasicLiterals Coverage Results" MODIFIED="1540001918660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/RubyLearn@7InstanceVariable.rcov" NAME="6_InstanceVariable Coverage Results" MODIFIED="1540001173737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
     <SUITE FILE_PATH="coverage/TestProject@ruby_tutor_3.rcov" NAME="ruby_tutor_3 Coverage Results" MODIFIED="1539957007871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestProject" />
@@ -60,35 +61,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rb" value="3" />
+          <entry key="rb" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Ruby" value="3" />
+          <entry key="Ruby" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="1715" />
-          <entry key="txt" value="30" />
+          <entry key="rb" value="1989" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Ruby" value="1715" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Ruby" value="1989" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7_BasicLiterals.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="703">
               <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8_Arrays.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -110,6 +120,7 @@
         <option value="$PROJECT_DIR$/7InstanceVariable.rb" />
         <option value="$PROJECT_DIR$/6_InstanceVariable.rb" />
         <option value="$PROJECT_DIR$/7_BasicLiterals.rb" />
+        <option value="$PROJECT_DIR$/8_Arrays.rb" />
       </list>
     </option>
   </component>
@@ -125,7 +136,9 @@
     <option name="width" value="1353" />
     <option name="height" value="713" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -164,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.7_BasicLiterals">
+  <component name="RunManager" selected="Ruby.8_Arrays">
     <configuration name="6_InstanceVariable" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="TestProject" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -198,6 +211,24 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/7_BasicLiterals.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_Arrays" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="TestProject" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/8_Arrays.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -237,38 +268,20 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="ruby_tutor_3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="TestProject" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby_tutor_3.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Ruby.ruby_tutor_3" />
       <item itemvalue="Ruby.Home_work_1" />
       <item itemvalue="Ruby.Variables" />
       <item itemvalue="Ruby.6_InstanceVariable" />
       <item itemvalue="Ruby.7_BasicLiterals" />
+      <item itemvalue="Ruby.8_Arrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.8_Arrays" />
         <item itemvalue="Ruby.7_BasicLiterals" />
         <item itemvalue="Ruby.6_InstanceVariable" />
         <item itemvalue="Ruby.Variables" />
         <item itemvalue="Ruby.Home_work_1" />
-        <item itemvalue="Ruby.ruby_tutor_3" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +298,7 @@
       <updated>1539950127560</updated>
       <workItem from="1539950129386" duration="6456000" />
       <workItem from="1539996546183" duration="941000" />
-      <workItem from="1539998982826" duration="3373000" />
+      <workItem from="1539998982826" duration="3982000" />
     </task>
     <task id="LOCAL-00001" summary="Instance variables">
       <created>1540000480679</created>
@@ -308,11 +321,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540001275344</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Basic Literals">
+      <created>1540002385688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540002385688</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10770000" />
+    <option name="totallyTimeSpent" value="11379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="942" extended-state="6" />
@@ -358,7 +378,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Instance variables" />
     <MESSAGE value="Rename files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename files" />
+    <MESSAGE value="Basic Literals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Literals" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_1.rb" />
@@ -381,6 +402,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_Arrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
